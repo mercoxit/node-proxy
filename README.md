@@ -3,7 +3,7 @@
 ### Requirements
 * Node.js 8.9.1
 * NPM 5.5.1
-* [PM2][http://pm2.keymetrics.io/docs/usage/quick-start]
+* [PM2](http://pm2.keymetrics.io/docs/usage/quick-start)
 
 
 ### Configuration
